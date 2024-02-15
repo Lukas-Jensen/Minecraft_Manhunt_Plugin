@@ -1,0 +1,9 @@
+name: ManhuntPlugin
+version: '${project.version}'
+main: me.lukaos187.manhuntplugin.ManhuntPlugin
+api-version: '1.19'
+commands:
+  hunter:
+    description: Makes player a hunter
+  runner:
+    description: Makes player the runner
